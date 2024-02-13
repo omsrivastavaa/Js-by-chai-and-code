@@ -14,3 +14,11 @@ console.log(scoreinNumber);
 //Null => 0
 //Undefined => NaN
 //True/False => 1/0
+
+//*******SOme special conversion of string */
+
+// console.log(1+"2"); => 12
+// console.log("1" + 2); => 12
+// console.log("1" + "2"); => 12
+// console.log("1" + 2 + 2); => 122
+// console.log(1 + 2 +"2"); => 32
